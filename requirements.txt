@@ -1,2 +1,6 @@
 django
-httpie
+reportlab
+ipython
+faker
+pyaml
+pillow
